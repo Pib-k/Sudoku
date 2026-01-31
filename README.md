@@ -50,7 +50,7 @@ You can use your mouse or keyboard to navigate the Sudoku.
 
 ## Download
 
-In order the download the .exe application either go to releases or click [here]().
+In order the download the .exe application either go to releases or click [here](https://github.com/AriesOdyssey/Sudoku/releases/download/launch/Sudoku.zip).
 You can also download the source code from the Releases page.
 
 ### Requirements:
